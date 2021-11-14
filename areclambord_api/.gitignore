@@ -1,0 +1,10 @@
+.venv
+.idea
+__pycache__
+
+*.sqlite3
+*.pyc
+
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
